@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pown Kumar G</h1>
 <h3 align="center">A passionate Android and Backend developer from India</h3>
 
-- 🔭 I’m currently working on [FullStack and ML Projects](Chat Wave)
+- 🔭 I’m currently working on [FullStack and ML Projects]
 
 - 🌱 I’m currently learning **React ,Nodejs , APIs**
 
